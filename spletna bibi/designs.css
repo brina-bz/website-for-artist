@@ -1,0 +1,66 @@
+
+h1{
+font-family: 'Bebas Neue', sans-serif;
+font-size: 30px;
+color: black;
+font-weight: 400;
+}
+
+h2{
+font-family: 'Bebas Neue', sans-serif;
+font-size: 20px;
+color: black;
+font-weight: 400;
+}
+
+p{
+font-size: 16px;
+color: black;
+font-family: 'Lato', sans-serif;
+font-weight: 400;
+}
+
+nav{
+font-size: 20px;
+color: black;
+font-family: 'Bebas Neue', sans-serif;
+font-weight: 400;
+}
+
+footer{
+font-size: 20px;
+color: black;
+font-family: 'Bebas Neue', sans-serif;
+font-weight: 400;
+text-align: center;
+}
+
+a{
+font-size: 20px;
+color: black;
+font-family: 'Bebas Neue', sans-serif;
+font-weight: 400;
+text-align: center;  
+}
+
+carousel{
+max-height: inherit;
+}
+
+.card
+{border-color: white;
+text-align: center;}
+
+@media (min-width: 0.01px) and (max-width: 768px){
+    h5{font-size: 35px;} 
+    p{font-size:23px;}
+}
+@media (min-width: 768px) and (max-width: 1200px){
+     h5{font-size: 32px;} 
+    p{font-size:20px;}
+}
+    
+@media (min-width: 1200px) and (max-width: 1399.98px){
+     h5{font-size: 30px;} 
+    p{font-size:16px;}
+}
