@@ -1,0 +1,49 @@
+h1{
+font-size: 60px;
+color: forestgreen;
+font-family: 'Reem Kufi Fun', sans-serif;
+font-weight: 400;
+}
+
+a{
+font-size: 16px;
+background-color:  white;
+color: darkgreen;
+font-family: 'Reem Kufi Fun', sans-serif;
+font-weight: 400;
+}
+
+ul{
+font-size: 16px;
+background-color:  white;
+color: black;
+font-family: 'Reem Kufi Fun', sans-serif;
+font-weight: 400;
+}
+
+nav {
+background-color:  white;
+color: black;
+position: fixed;
+top: 0;
+width: 100%;
+border: 1px solid #e7e7e7;
+background-color: #f3f3f3;
+}
+
+p{
+text-align: left;
+font-size: 16px;
+background-color:  white;
+color: black;
+font-family: 'Reem Kufi Fun', sans-serif;
+font-weight: 400;
+}
+
+/*>img{
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 80px;
+}
+<img src="Screenshot%202024-01-26%20130118.png">/*>
